@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#163f58</color>
+    <color name="purple_500">#ABCBCC</color> //สีกรอบบน
+    <color name="purple_700">#163f58</color> //สีขอบบนสุด
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#163f58</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name ="light_white">#D2D2D2</color>
+    <color name ="card_1">#A3E4D7</color>
+    <color name ="card_2">#F9E79F</color>
+    <color name ="card_3">#D7BDE2</color>
+    <color name ="card_4">#D2C3D8</color>
+    <color name ="bg_day">#ecf6f6</color>
+    <color name ="all_frag">#abcbcc</color>
+    <color name ="dark_temp">#163f58</color>
+</resources>

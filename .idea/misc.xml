@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/bottom_background_home_day.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/color_search_bg.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/ic_home.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/ic_photo_camera.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/ic_search.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/ic_setting.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/item_selector.xml" value="0.1680921052631579" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/drawable/round_corner.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_agita.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_altresyn.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_baycox.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_cam.xml" value="0.144" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_citrius.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_citriys.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_cobactan.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_guide.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/activity_search.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_cam.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_detail_altresyn.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_detail_baycox.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_detail_citius.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_detail_cobactan.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_favorite.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_guide.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_home.xml" value="0.136" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_map.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_search_detail.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/layout/fragment_setting.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/finally_med/app/src/main/res/xml/fileprovider.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
